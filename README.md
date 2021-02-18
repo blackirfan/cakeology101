@@ -14,7 +14,7 @@ GETTING STARTED
 3 - Create superuser
     python manage.py createsuperuser
     
-https://porasunayhb.herokuapp.com/
+https://cakeology101.herokuapp.com/
 
-user : irfanhossain2025@gmail.com
-pass : irfan123456
+user : cakeology101is@gmail.com
+pass : me123456
