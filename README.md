@@ -16,5 +16,5 @@ GETTING STARTED
     
 https://cakeology101.herokuapp.com/
 
-user : cakeology101is@gmail.com
+user : sumubarsha@gmail.com
 pass : me123456
