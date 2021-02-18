@@ -1,4 +1,4 @@
-# django-portfolio-website
+# django-Cakeology101-website
 
 GETTING STARTED
 
